@@ -82,8 +82,14 @@ mysql 8
 
 레퍼런스 페이지
 
-[https://tumblbug.com/koreanmonster?ref=메인3D주목할만한프로젝트](https://tumblbug.com/koreanmonster?ref=%EB%A9%94%EC%9D%B83D%EC%A3%BC%EB%AA%A9%ED%95%A0%EB%A7%8C%ED%95%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)[https://tumblbug.com/oguforest?ref=메인2F최근에본프로젝트](https://tumblbug.com/oguforest?ref=%EB%A9%94%EC%9D%B82F%EC%B5%9C%EA%B7%BC%EC%97%90%EB%B3%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)[https://tumblbug.com/discover?category=board-games-and-trpg](https://tumblbug.com/discover?category=board-games-and-trpg)
+[https://tumblbug.com/koreanmonster?ref=메인3D주목할만한프로젝트](https://tumblbug.com/koreanmonster?ref=%EB%A9%94%EC%9D%B83D%EC%A3%BC%EB%AA%A9%ED%95%A0%EB%A7%8C%ED%95%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)[https://tumblbug.com/oguforest?ref=메인2F최근에본프로젝트]
+
+(https://tumblbug.com/oguforest?ref=%EB%A9%94%EC%9D%B82F%EC%B5%9C%EA%B7%BC%EC%97%90%EB%B3%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)[https://tumblbug.com/discover?category=board-games-and-trpg](https://tumblbug.com/discover?category=board-games-and-trpg)
+
 [https://tumblbug.com/discover?sort=popular&ongoing=onGoing](https://tumblbug.com/discover?sort=popular&ongoing=onGoing) 
+
 [https://tumblbug.com/discover?sort=publishedAt&ongoing=onGoing](https://tumblbug.com/discover?sort=publishedAt&ongoing=onGoing) 
+
 [https://tumblbug.com/discover?ongoing=onGoing&sort=endedAt](https://tumblbug.com/discover?ongoing=onGoing&sort=endedAt) 
+
 [https://tumblbug.com/discover?ongoing=prelaunching](https://tumblbug.com/discover?ongoing=prelaunching)
